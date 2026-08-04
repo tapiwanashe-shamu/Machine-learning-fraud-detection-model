@@ -81,6 +81,8 @@ Meanwhile, XGBoost catches slightly more fraud cases (1,638 vs. 1,579 of 1,643 c
 
 This turns model output into an auditable format. Any flagged transaction can be traced back to the accounts involved, rather than trusted purely on a probability score.
 
+A sample has been provided [here.](sample_predictions.csv)
+
 ## How to Run Code
 
 ```bash
