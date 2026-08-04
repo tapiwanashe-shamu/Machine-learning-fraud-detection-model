@@ -219,3 +219,4 @@ __marimo__/
 
 # Project-specific
 *.csv
+!sample_predictions.csv
