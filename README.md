@@ -90,7 +90,7 @@ pip install pandas numpy scikit-learn xgboost pyarrow
 python Paysim_fraud_model.py
 ```
 
-Update `DATA_FILE` in the script to point to your local copy of the PaySim CSV (download from Kaggle — link above).
+Update `DATA_FILE` in the script to point to your local copy of the PaySim CSV (download from Kaggle).
 
 ## Recommendations 
 
